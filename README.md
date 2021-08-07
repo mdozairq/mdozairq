@@ -1,3 +1,4 @@
+<div style="background-color: #A7BBC7">
 <h1 align="center">Hi 👋, I'm Md Ozair Qayam</h1>
 <h3 align="center">A passionate Web Developer | Programmer | Artist | Learner</h3>
 
@@ -35,3 +36,4 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mdozairq&show_icons=true&locale=en&layout=compact" alt="mdozairq" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mdozairq&show_icons=true&locale=en" alt="mdozairq" /></p>
+  </div>
