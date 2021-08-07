@@ -1,5 +1,5 @@
-<div style="background-color: #A7BBC7">
-<h1 align="center">Hi 👋, I'm Md Ozair Qayam</h1>
+<div style="background-color: #A7BBC7;">
+<h1 align="center" style="color: #DA7F8F;">Hi 👋, I'm Md Ozair Qayam</h1>
 <h3 align="center">A passionate Web Developer | Programmer | Artist | Learner</h3>
 
 - 🔭 I’m currently working on [Node.js with Express.js using <% ejs %>](https://github.com/mymymoq27/smokeHouse/)
