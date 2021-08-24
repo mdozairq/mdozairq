@@ -18,7 +18,7 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
-  <a href="https://salty-stream-15965.herokuapp.com">check my Blog here<\a>
+  <a href="https://mdozairq.medium.com/">check my Blog here</a>
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
