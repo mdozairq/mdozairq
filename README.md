@@ -18,7 +18,7 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
-  <a href="https://mdozairq.medium.com/">check my Blog here</a>
+  <a href="https://mdozairq.medium.com/">check my Blogs here</a>
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
