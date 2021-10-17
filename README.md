@@ -8,7 +8,7 @@
 
 - 👯 I’m looking to collaborate on **React.js**
 
-- 🤝 I’m looking for help with **App Development using Flutter**
+- 🤝 I’m looking for help with **App Development**
 
 - 📝 I regularly write articles on [medium.in](medium.in)
 
