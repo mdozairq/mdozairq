@@ -2,13 +2,11 @@
 <h1 align="center" style="color: #DA7F8F;">Hi 👋, I'm Md Ozair Qayam</h1>
 <h3 align="center">A passionate Web Developer | Programmer | Artist | Learner</h3>
 
-- 🔭 I’m currently working on [Node.js with Express.js using <% ejs %>](https://github.com/mymymoq27/smokeHouse/)
+- 🔭 I’m currently working on [MERN stack Development](https://github.com/mymymoq27/smokeHouse/)
 
 - 🌱 I’m currently learning **Analysis of Algorithm**
 
-- 👯 I’m looking to collaborate on **React.js**
-
-- 🤝 I’m looking for help with **App Development**
+- 👯 I’m looking to collaborate on **React Native**
 
 - 📝 I regularly write articles on [medium.in](medium.in)
 
