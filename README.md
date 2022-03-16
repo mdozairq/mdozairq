@@ -4,7 +4,7 @@
 
 - 🔭 I’m currently working on [MERN stack Development](https://github.com/mymymoq27/smokeHouse/)
 
-- 🌱 I’m currently learning **Analysis of Algorithm**
+- 🌱 I’m currently learning **Blockchain and its Application**
 
 - 👯 I’m looking to collaborate on **React Native**
 
