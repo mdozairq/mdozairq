@@ -1,6 +1,6 @@
 <div style="background-color: #A7BBC7;">
 <h1 align="center" style="color: #DA7F8F;">Hi 👋, I'm Md Ozair Qayam</h1>
-<h3 align="center">A passionate Web Developer | Programmer | Artist | Learner</h3>
+<h3 align="center">A passionate Full Stack Developer | Programmer | Artist | Learner</h3>
 
 - 🔭 I’m currently working on [MERN stack Development](https://github.com/mymymoq27/smokeHouse/)
 
